@@ -1,4 +1,4 @@
-package com.autoai.service;
+package com.autoai.rmi.service;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;

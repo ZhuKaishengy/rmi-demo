@@ -1,6 +1,6 @@
-package com.autoai.service.impl;
+package com.autoai.rmi.service.impl;
 
-import com.autoai.service.IHelloService;
+import com.autoai.rmi.service.IHelloService;
 
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;

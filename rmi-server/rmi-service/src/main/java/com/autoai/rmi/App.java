@@ -1,7 +1,7 @@
-package com.autoai.app;
+package com.autoai.rmi;
 
-import com.autoai.service.IHelloService;
-import com.autoai.service.impl.HelloServiceImpl;
+import com.autoai.rmi.service.IHelloService;
+import com.autoai.rmi.service.impl.HelloServiceImpl;
 import lombok.extern.slf4j.Slf4j;
 
 import java.net.MalformedURLException;
